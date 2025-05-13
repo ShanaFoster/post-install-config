@@ -6,9 +6,9 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -61,3 +61,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 "The above image shows the Departments Dsection. To create a department, navigate to the Admin Panel, select Agent; then Department and click Add New Department."
 
+
+</p>
+<br />
+
+<img src="https://i.imgur.com/v1njy56.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+
+"The image above shows the Help Topic section. A Help Topic is used to determine how critical an issue is for the end user. To create a Help Topic, navigate to the Admin Panel, select manage, then Help Topic, and click Add New Help Topic."
+
+</p>
+<p>
