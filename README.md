@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -31,25 +31,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kHJzqKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+"The image above shows an agent, Jane Doe, being created. To add a new agent, navigate to the Admin Panel, select Agents, then click Add New Agent to create an agent."
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0tb71Dg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+"The image above shows a user being created. To create a new user, navigate to the Agent Panel, select User, and then click Add New User."
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJ8m8OT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+"The above image shows how to create an SLA. An SLA is used to determine the serverity of a ticket. To create an SLA, navigate to the Admin Panel, select manage, then SLA, and click Add New SLA.
 </p>
 <br />
+
+
+<img src="https://i.imgur.com/6xa8U9I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+"The above image shows the Departments Dsection. To create a department, navigate to the Admin Panel, select Agent; then Department and click Add New Department."
+
