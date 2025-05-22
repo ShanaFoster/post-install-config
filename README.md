@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/kHJzqKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"The image above shows an agent, Jane Doe, being created. To add a new agent, navigate to the Admin Panel, select Agents, then click Add New Agent to create an agent."
+The image above shows an agent, Jane Doe, being created. To add a new agent, navigate to the Admin Panel, select Agents, then click Add New Agent to create an agent.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/0tb71Dg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"The image above shows a user being created. To create a new user, navigate to the Agent Panel, select User, and then click Add New User."
+The image above shows a user being created. To create a new user, navigate to the Agent Panel, select User, and then click Add New User.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJ8m8OT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"The above image shows how to create an SLA. An SLA is used to determine the serverity of a ticket. To create an SLA, navigate to the Admin Panel, select manage, then SLA, and click Add New SLA.
+The above image shows how to create an SLA. An SLA is used to determine the serverity of a ticket. To create an SLA, navigate to the Admin Panel, select manage, then SLA, and click Add New SLA.
 </p>
 <br />
 
@@ -59,7 +59,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-"The above image shows the Departments Dsection. To create a department, navigate to the Admin Panel, select Agent; then Department and click Add New Department."
+The above image shows the Departments Dsection. To create a department, navigate to the Admin Panel, select Agent; then Department and click Add New Department.
 
 
 </p>
@@ -70,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-"The image above shows the Help Topic section. A Help Topic is used to determine how critical an issue is for the end user. To create a Help Topic, navigate to the Admin Panel, select manage, then Help Topic, and click Add New Help Topic."
+The image above shows the Help Topic section. A Help Topic is used to determine how critical an issue is for the end user. To create a Help Topic, navigate to the Admin Panel, select manage, then Help Topic, and click Add New Help Topic.
 
 </p>
 <p>
