@@ -22,11 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Image of an agent being created
-- Image of an end user being created
+- Image of an Agent being created
+- Image of an End User being created
 - Image of SLA being created
-- Image of a department being created
-- Image of and end user issue being resolved
+- Image of a Department being created
+- Image of an End User issue being resolved
 
 
 <h2>Configuration Steps</h2>
